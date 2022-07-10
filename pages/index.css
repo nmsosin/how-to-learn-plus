@@ -1,7 +1,7 @@
 /* general page styles import */
-@import url(../blocks/page/page.css);
-@import url(../styles/fonts.css);
 @import url(../styles/normalize.css);
+@import url(../styles/fonts.css);
+@import url(../blocks/page/page.css);
 
 /* common styles and animations */
 @import url(../blocks/rotation/rotation.css);
